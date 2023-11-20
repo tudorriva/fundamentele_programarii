@@ -360,7 +360,7 @@ def on_Enter_key():
     turtle.clear()
     turtle.hideturtle()
     aux={}
-    if ch not in user_signs.keys():#schreibt in einer Datei der benutzerdefinierte Worterbuch
+    if ch not in user_signs.keys(): #scrie intr-un fisier un dictionar cu tastele apasate la definirea unui nou cuvant si le salveaza intr-un fisier
         aux[ch]=drawn_keys
         with open('user_defined.txt', 'a') as cnv_f:
             cnv_f.write(json.dumps(aux)+"\n")
@@ -409,7 +409,7 @@ user_signs={}
 x, y = -350, 270
 def main():
     global x,y
-    if os.stat("written_words.txt").st_size>0:#sieht ob die Datei leer ist
+    if os.stat("written_words.txt").st_size>0:#verifica daca exista vreun cuvant scris inainte
         with open('written_words.txt', 'r') as fl:
             lns=fl.readlines()
 
@@ -417,11 +417,11 @@ def main():
         with open('user_defined.txt', 'r') as file:
             lines=file.readlines()
         aux={}
-        for line in lines:#macht ein Worterbuch aus alle benutzerdefinierte Zeichen
+        for line in lines:#face un dictionar din toate semnele definite de un utilizator
             aux=json.loads(line)
             user_signs.update(aux)
     ct = 0
-    if os.stat("written_words.txt").st_size > 0:#zeichnet die gespeicherte Worter
+    if os.stat("written_words.txt").st_size > 0:# deseneaza ultimele cuvinte desenate
         for l in lns:
             ct += 1
             if ct > 1:
@@ -449,7 +449,7 @@ def main():
     elif n == '1':
         chr = input("Enter String: ")
         chr=chr.upper()
-        with open('written_words.txt', 'a') as file1:#speichert die Worter in einer Datei
+        with open('written_words.txt', 'a') as file1:# salveaza cuvintele intr-un fisier extern
             file1.write(chr+"\n")
         word = list(chr)
 
@@ -467,7 +467,7 @@ def main():
     elif n == '2':
         global ch
         ch= input()
-        if ch not in alphabet and ch not in user_signs:#wenn der Zeichen nicht definiert ist soll der Benutzer sie zeichnen
+        if ch not in alphabet and ch not in user_signs:# daca semnul nu este definit atunci trebuie sa fie desenat de utilizator
             drawn_keys.clear()
             draw_custom_character()
         else:
