@@ -1,4 +1,4 @@
-# customer.py
+
 from .identifiable import Identifiable
 
 class Customer(Identifiable):

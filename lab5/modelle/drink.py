@@ -1,4 +1,4 @@
-# drink.py
+
 from .dish import Dish
 
 class Drink(Dish):

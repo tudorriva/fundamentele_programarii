@@ -1,4 +1,4 @@
-# order.py
+
 from .identifiable import Identifiable
 
 class Order(Identifiable):
@@ -10,7 +10,6 @@ class Order(Identifiable):
         self.total_cost = self.calculate_cost(dish_repo, drink_repo)
 
     def calculate_cost(self, dish_repo, drink_repo):
-        # Fetch dish and drink objects based on IDs and sum their prices
         dish_prices = [dish_repo.get_by_id(dish_id).price for dish_id in self.dish_ids]
         drink_prices = [drink_repo.get_by_id(drink_id).price for drink_id in self.drink_ids]
 
@@ -19,12 +18,10 @@ class Order(Identifiable):
         return total_cost
 
     def generate_bill_string(self, dish_repo, drink_repo, customer_repo):
-        # Fetch dish and drink objects based on IDs and customer object based on customer ID
         dishes = [dish_repo.get_by_id(dish_id) for dish_id in self.dish_ids]
         drinks = [drink_repo.get_by_id(drink_id) for drink_id in self.drink_ids]
         customer = customer_repo.get_by_id(self.customer_id)
 
-        # Retrieve names and other attributes from the fetched objects
         dish_names = [f"{dish.id}: {dish.portion_size}g - ${dish.price:.2f}" for dish in dishes]
         drink_names = [f"{drink.id}: {drink.portion_size}ml - ${drink.price:.2f}" for drink in drinks]
         customer_name = customer.name

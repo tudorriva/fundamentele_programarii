@@ -23,11 +23,9 @@ class DataRepo:
             f.write(content)
 
     def convert_to_string(self, obj_list):
-        # This method should be defined in subclasses
         pass
 
     def convert_from_string(self, content):
-        # This method should be defined in subclasses
         pass
 
     def get_by_id(self, obj_id):

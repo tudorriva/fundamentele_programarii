@@ -40,7 +40,6 @@ def main():
         choice = UI.get_input("Enter your choice (1-13): ")
 
         if choice == "1":
-            # Adding a Dish
             dish_id = UI.get_input("Enter dish ID: ")
             portion_size = UI.get_input("Enter portion size: ")
             price = UI.get_input("Enter price: ")
@@ -50,7 +49,6 @@ def main():
             controller.add_dish(new_dish)
 
         elif choice == "2":
-            # Adding a Drink
             drink_id = UI.get_input("Enter drink ID: ")
             portion_size = UI.get_input("Enter portion size: ")
             price = UI.get_input("Enter price: ")
@@ -60,31 +58,26 @@ def main():
             controller.add_drink(new_drink)
 
         elif choice == "3":
-            # Search for a Customer by Partial Name
             partial_name = UI.get_input("Enter partial name: ")
             found_customers_by_name = controller.search_customer_by_partial_name(partial_name)
             UI.display_message(f"Customers with partial name '{partial_name}': {found_customers_by_name}")
 
         elif choice == "4":
-            # Search for a Customer by Partial Address
             partial_address = UI.get_input("Enter partial address: ")
             found_customers_by_address = controller.search_customer_by_partial_address(partial_address)
             UI.display_message(f"Customers with partial address '{partial_address}': {found_customers_by_address}")
 
         elif choice == "5":
-            # Updating a Customer Name
             customer_id_to_update = UI.get_input("Enter customer ID to update: ")
             new_customer_name = UI.get_input("Enter new customer name: ")
             controller.update_customer_name(customer_id_to_update, new_customer_name)
 
         elif choice == "6":
-            # Generate Bill for an Order
             order_id_for_bill = UI.get_input("Enter order ID for bill generation: ")
             bill_string = controller.generate_bill_string(order_id_for_bill)
             UI.display_message(bill_string)
 
         elif choice == "7":
-            # Display List of Dishes
             dishes = controller.get_dishes()
             UI.display_message("List of Dishes:")
             for dish in dishes:

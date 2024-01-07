@@ -1,4 +1,4 @@
-# cooked_dish.py
+
 from .dish import Dish
 
 class CookedDish(Dish):

@@ -1,4 +1,4 @@
-# ui.py
+
 class UI:
     @staticmethod
     def display_message(message):

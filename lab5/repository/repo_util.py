@@ -1,4 +1,4 @@
-# repo_util.py
+
 
 def convert_to_string(obj_list, format_string):
     return '\n'.join([format_string.format(*obj) for obj in obj_list])

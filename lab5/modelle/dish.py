@@ -1,4 +1,4 @@
-# dish.py
+
 from .identifiable import Identifiable
 
 class Dish(Identifiable):

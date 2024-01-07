@@ -65,7 +65,7 @@ class Controller:
     def get_dishes(self):
         dishes = self.cooked_dish_repo.load()
 
-        # Convert prices to float
+
         for dish in dishes:
             dish.price = float(dish.price)
 
@@ -74,7 +74,7 @@ class Controller:
     def get_drinks(self):
         drinks = self.drink_repo.load()
 
-        # Convert prices to float
+
         for drink in drinks:
             drink.price = float(drink.price)
 
