@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ab80d0b-4fa2-4ebf-9b0e-04759a4d3db6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Laborator 4/Exercitiul 1/user_defined.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator 4/Exercitiul 1/user_defined.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator 4/Exercitiul 1/written_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator 4/Exercitiul 1/written_words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator 4/Exercitiul 2/meine_datei.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator 4/Exercitiul 2/meine_datei.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator 4/Exercitiul 3/functions/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator 4/Exercitiul 3/functions/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator 4/Exercitiul 3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator 4/Exercitiul 3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator 4/Exercitiul 3/test_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator 4/Exercitiul 3/test_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 11/Entities/adress.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 11/Entities/adress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 11/Entities/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 11/Entities/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 11/Logic/logica.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 11/Logic/logica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 11/UI/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 11/UI/console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 11/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 11/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 11/repo/student_repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 11/repo/student_repo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 6/logik/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 6/logik/hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 6/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 6/repository/state.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 6/repository/state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 6/tests/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 6/tests/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 6/ui/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 6/ui/console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 7/ex2/fraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 7/ex2/fraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 7/ex2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 7/ex2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 7/ex3/auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 7/ex3/auto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 7/ex3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 7/ex3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 7/ex3/statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 7/ex3/statistics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 7/ex4/account.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 7/ex4/account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 7/ex4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 7/ex4/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 8/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 8/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/Seminar 8/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/Seminar 8/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar/pythonProject1/modelle/Identifizierbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar/pythonProject1/modelle/Identifizierbar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/controller/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelle/cooked_dish.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelle/cooked_dish.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelle/customer.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelle/customer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelle/dish.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelle/dish.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelle/drink.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelle/drink.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelle/identifiable.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelle/identifiable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelle/order.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelle/order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/cooked_dish_repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/cooked_dish_repo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/customer_repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/customer_repo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/data_repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/data_repo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/drink_repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/drink_repo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/order_repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/order_repo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/repo_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/repo_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject2/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject2/app.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2aAzPv6sAgJBNFpq6jEWYrXSEEo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tudor\PycharmProjects\lab5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lab5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ab80d0b-4fa2-4ebf-9b0e-04759a4d3db6" name="Changes" comment="" />
+      <created>1703776150858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703776150858</updated>
+      <workItem from="1703776158426" duration="15913000" />
+      <workItem from="1704667983538" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab5$Gericht.coverage" NAME="Gericht Coverage Results" MODIFIED="1704387131175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelle" />
+    <SUITE FILE_PATH="coverage/lab5$kunde.coverage" NAME="kunde Coverage Results" MODIFIED="1704387136645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/repository" />
+    <SUITE FILE_PATH="coverage/lab5$data_repo.coverage" NAME="data_repo Coverage Results" MODIFIED="1704667473974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/repository" />
+    <SUITE FILE_PATH="coverage/lab5$getrank.coverage" NAME="getrank Coverage Results" MODIFIED="1704387038031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/repository" />
+    <SUITE FILE_PATH="coverage/lab5$app.coverage" NAME="app Coverage Results" MODIFIED="1704667999161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab5$test.coverage" NAME="test Coverage Results" MODIFIED="1703778125976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelle" />
+    <SUITE FILE_PATH="coverage/lab5$Kunde.coverage" NAME="Kunde Coverage Results" MODIFIED="1704387214760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelle" />
+    <SUITE FILE_PATH="coverage/lab5$Bestellung.coverage" NAME="Bestellung Coverage Results" MODIFIED="1703778057822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelle" />
+    <SUITE FILE_PATH="coverage/lab5$Getrank.coverage" NAME="Getrank Coverage Results" MODIFIED="1704387102360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelle" />
+    <SUITE FILE_PATH="coverage/lab5$main.coverage" NAME="main Coverage Results" MODIFIED="1704667991114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
